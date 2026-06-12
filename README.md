@@ -30,3 +30,21 @@ Traditional vehicle monitoring systems often rely on internet connectivity and p
 - HTML
 - CSS
 - JavaScript
+
+## Workflow
+
+![System Workflow](workflow.png)
+
+## Prototype
+
+![Prototype](prototype.png)
+
+## Results
+
+The developed system successfully provides real-time vehicle tracking, driver drowsiness detection, geofencing, overspeed monitoring, and LoRa-based communication. The hybrid online/offline architecture ensures uninterrupted monitoring by storing data locally during connectivity loss and synchronizing it when the network becomes available.
+
+## Future Scope
+
+- Cloud-based fleet management
+- AI-based driver behavior analysis
+- Predictive maintenance using vehicle data
